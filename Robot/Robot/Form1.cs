@@ -21,5 +21,10 @@ namespace Robot
         {
             label1.Visible = true;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form1.ActiveForm.Close();
+        }
     }
 }
