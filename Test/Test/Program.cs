@@ -10,7 +10,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ho pullato da develop ma ho salvato Hello World");
             Console.ReadKey();
         }
     }
