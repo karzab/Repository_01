@@ -13,7 +13,7 @@ namespace Test
 
             Console.WriteLine("Sono Pippo!");
 
-            Console.WriteLine("Stato: ho fatto merge da develop");
+            Console.WriteLine("Stato: ho fatto merge da develop e messo i=2");
 
 
             Console.ReadKey();
