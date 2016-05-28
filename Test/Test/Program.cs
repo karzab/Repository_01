@@ -13,7 +13,7 @@ namespace Test
 
             Console.WriteLine("Sono Pluto!");
 
-            Console.WriteLine("Stato: Merge con develop");
+            Console.WriteLine("Stato: Merge con develop (i=3)");
 
             Console.ReadKey();
 
