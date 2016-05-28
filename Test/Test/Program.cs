@@ -10,9 +10,11 @@ namespace Test
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Sono Pluto!");
 
-            Console.WriteLine("Stato: sono solo Pluto");
+            Console.WriteLine("Stato: Merge con develop");
+
             Console.ReadKey();
 
             Console.ReadLine();
