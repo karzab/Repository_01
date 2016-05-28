@@ -12,7 +12,7 @@ namespace Test
         {
             Console.WriteLine("Sono Master!");
 
-            Console.WriteLine("Stato: Ho cambiato il file (i=1)");
+            Console.WriteLine("Stato: Ho cambiato il file (i=4)");
             Console.ReadKey();
 
             Console.ReadLine();
