@@ -10,9 +10,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sono Develop!");
+            Console.WriteLine("Sono Master!");
 
-            Console.WriteLine("Stato: Non sono più allineato a Master");
+            Console.WriteLine("Stato: Ho cambiato il file (i=1)");
             Console.ReadKey();
 
             Console.ReadLine();

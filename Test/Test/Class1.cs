@@ -10,7 +10,7 @@ namespace Test
     {
         int i;
         public Class1() {
-            i = 0;
+            i = 1; //Master ha messo 1
         }
     }
 }
