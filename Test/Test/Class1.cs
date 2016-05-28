@@ -11,7 +11,7 @@ namespace Test
         int i;
         public Class1() {
 
-            i = 4; //Develop ha messo 4
+            i = 5; //Pippo ha messo 5
 
         }
     }

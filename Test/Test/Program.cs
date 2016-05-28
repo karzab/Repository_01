@@ -14,7 +14,8 @@ namespace Test
 
             Console.WriteLine("Sono Pippo!");
 
-            Console.WriteLine("Stato: ho fatto merge da develop");
+            Console.WriteLine("Stato: ho messo i=5");
+
 
             Console.ReadKey();
 
