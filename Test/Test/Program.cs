@@ -12,7 +12,7 @@ namespace Test
         {
             Console.WriteLine("Sono Develop!");
 
-            Console.WriteLine("Stato: sono allineato al Master");
+            Console.WriteLine("Stato: Non sono più allineato a Master");
             Console.ReadKey();
 
             Console.ReadLine();
