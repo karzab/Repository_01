@@ -10,9 +10,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sono Develop!");
+            Console.WriteLine("Sono Pluto!");
 
-            Console.WriteLine("Stato: sono allineato al Master");
+            Console.WriteLine("Stato: sono solo Pluto");
             Console.ReadKey();
 
             Console.ReadLine();
