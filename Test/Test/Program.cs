@@ -10,11 +10,9 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Sono Master!");
 
-            Console.WriteLine("Sono Pluto!");
-
-            Console.WriteLine("Stato: Merge con develop (i=3)");
-
+            Console.WriteLine("Stato: Ho cambiato il file (i=4)");
             Console.ReadKey();
 
             Console.ReadLine();
